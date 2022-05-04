@@ -1,2 +1,3 @@
-# Exquisite-corpse
-Exercise on working in group with git
+## Her story 
+###### (found from internet)
+left out her village,spend her whole life in the city, without seeing her home again. At last, she was found .....
